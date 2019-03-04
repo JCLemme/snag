@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name eprisc_mach-rescue)(type Legacy)(uri ${KIPRJMOD}/eprisc_mach-rescue.lib)(options "")(descr ""))
+  (lib (name Altera1)(type Legacy)(uri ${KIPRJMOD}/Altera.lib)(options "")(descr ""))
+)
